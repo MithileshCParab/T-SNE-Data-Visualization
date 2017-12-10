@@ -1,0 +1,5 @@
+Keras 
+Tensorflow 
+Numpy
+Tqdm 
+matplotlib 
